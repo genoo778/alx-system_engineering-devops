@@ -1,2 +1,6 @@
+<<<<<<< HEAD:0-current_working_directory
 #!/bin/bash
 pwd
+=======
+su betty
+>>>>>>> shell_permissions updated:0x01-shell_permissions/0-iam_betty
